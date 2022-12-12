@@ -20,6 +20,11 @@ Note1 -> You have an infinite supply of each coin denomination i.e. same coin de
 Note2 -> You are required to find the count of combinations and not permutations i.e.
                   2 + 2 + 3 = 7 and 2 + 3 + 2 = 7 and 3 + 2 + 2 = 7 are different permutations of same 
                   combination. You should treat them as 1 and not 3.
+                  
+                  
+1.2)Coin Change Permutations
+
+
 
 
 
